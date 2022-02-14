@@ -28,6 +28,9 @@ environment:
 # versions available, run `flutter pub outdated`.
 dependencies:
   firebase_auth: ^3.3.7
+  google_fonts: ^2.3.1
+  bloc: ^8.0.2
+  intl_phone_number_input: ^0.7.0+2
   flutter:
     sdk: flutter
 
